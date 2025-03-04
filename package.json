@@ -1,0 +1,7 @@
+{
+  "name": "kwanta",
+  "version": "1.0.0",
+  "scripts": { "dev": "vite", "build": "vite build", "start": "vite preview" },
+  "dependencies": { "firebase": "^9.6.1", "@octokit/rest": "^19.0.7", "monaco-editor": "^0.33.0" },
+  "devDependencies": { "vite": "^3.0.0" }
+}
